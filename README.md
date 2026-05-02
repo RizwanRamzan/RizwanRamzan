@@ -26,8 +26,8 @@ I focus on **real-world systems**, not just code.
 
 ## 🧠 Core Expertise
 - **Frontend:** React.js, Next.js, TypeScript  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, PostgreSQL  
+- **Backend:** Node.js, Express.js, Nest.js REST APIs  
+- **Databases:** MongoDB, PostgreSQL
 - **Cloud:** AWS, Docker, CI/CD  
 - **Architecture:** SaaS, Microservices, Scalable Systems  
 
