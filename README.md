@@ -1,68 +1,95 @@
 <h1 align="center">Hi 👋, I'm Rizwan Ramzan</h1>
-<h3 align="center">🚀 Full Stack Engineer | SaaS | Healthcare | FinTech</h3>
+
+<h3 align="center">🚀 SaaS Architect | Healthcare Systems Engineer | FinTech & AI Product Builder</h3>
 
 <p align="center">
-  I help startups & enterprises build scalable, secure, and high-performance digital products.
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Building+Scalable+SaaS+Platforms;Healthcare+%26+FinTech+Systems;AI+Powered+Applications;Enterprise+Software+Architect&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 💼 What I Do
-- 🚀 Build scalable SaaS platforms from idea to production  
-- 🏥 Develop HIPAA-compliant healthcare systems  
-- 💳 Create secure FinTech & payment solutions  
-- 🤖 Design AI-powered dashboards & automation tools  
-- 📱 Develop modern web & mobile applications  
+## 🧠 About Me
+I design and build **enterprise-grade digital products** that help startups and companies scale globally in SaaS, Healthcare, FinTech, and AI domains.
+
+I focus on **real-world systems**, not just code.
 
 ---
 
-## 🧠 Expertise
+## 💼 What I Build
+- 🚀 Multi-tenant SaaS Platforms (CRM, Dashboards, Automation)
+- 🏥 Telemedicine & Healthcare Systems (HIPAA-ready)
+- 💳 Secure FinTech & Payment Infrastructure
+- 🤖 AI-powered Analytics & Decision Systems
+- 📱 Scalable Web & Mobile Applications
+
+---
+
+## 🧠 Core Expertise
 - **Frontend:** React.js, Next.js, TypeScript  
-- **Backend:** Node.js, Express.js  
+- **Backend:** Node.js, Express.js, REST APIs  
 - **Databases:** MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS, Docker  
-- **Architecture:** Scalable SaaS, Microservices  
+- **Cloud:** AWS, Docker, CI/CD  
+- **Architecture:** SaaS, Microservices, Scalable Systems  
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Production Projects
 
-### 🚀 SaaS CRM Platform
-Multi-tenant SaaS system with authentication, dashboards, and subscription management.
-
-### 🏥 Healthcare Appointment System
-HIPAA-ready platform with video calls, scheduling, and secure patient data handling.
-
-### 🤖 AI Analytics Dashboard
-Real-time insights dashboard with automation and data visualization.
+### 🏥 Healthcare Platform
+**OhanaDoc / American Clinic Online**  
+Telemedicine system with appointments, video consultation, patient management & secure data handling.
 
 ---
 
-## 📊 GitHub Stats
+### 💳 FinTech System
+**RQM Books**  
+Financial tracking, reporting, and business management system designed for operational scalability.
+
+---
+
+### 📊 SaaS / Marketing Platform
+**WerkMatch**  
+Automation-based platform for matching, workflow optimization, and business growth systems.
+
+---
+
+### 🤖 AI Analytics System
+AI-powered dashboard for real-time insights, predictive analytics, and business intelligence.
+
+---
+
+## 📊 GitHub Performance
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwanramzan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanramzan&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwanramzan&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanramzan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanramzan&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Why Work With Me
-- ✅ 7+ years of real-world development experience  
-- ✅ Built production-grade SaaS & healthcare systems  
-- ✅ Strong focus on performance, security & scalability  
-- ✅ Clear communication & reliable delivery  
+## 🌍 Why Companies Work With Me
+- ⚡ Proven experience in real production systems
+- 🏥 Strong expertise in healthcare & compliance systems
+- 💳 Secure fintech architecture experience
+- 🚀 Focus on scalability, performance & clean architecture
+- 🤝 Business-first engineering mindset
 
 ---
 
-## 🤝 Let’s Work Together
-<p>
-  📧 Email: rizwanramzan826@gmail.com <br/>
-  💼 LinkedIn: https://www.linkedin.com/in/rizwan-ramzan/ <br/>
-  🌐 Portfolio: https://rizwanramzan.com/
-</p>
+## 🤝 Let’s Build Something Scalable
+📧 Email: rizwanramzan826@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/rizwan-ramzan/  
+🌐 Portfolio: https://rizwanramzan.com/
 
 ---
 
 <p align="center">
-  ⚡ Turning Ideas into Scalable, Revenue-Generating Products
+  ⚡ “Engineering products that scale globally and generate real business impact”
 </p>
