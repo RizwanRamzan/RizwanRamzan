@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+Enterprise-Grade+SaaS+Platforms;Healthcare+%26+FinTech+Systems+at+Scale;AI-Powered+Products+%26+Analytics;10%2B+Day+GitHub+Streak+%F0%9F%94%A5+and+Climbing" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 <a href="https://rizwanramzan.com/">
   <img src="https://img.shields.io/badge/Portfolio-rizwanramzan.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
