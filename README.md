@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://rizwanramzan.com/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rizwan%20Ramzan&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=SaaS%20Architect%20%7C%20Healthcare%20%26%20FinTech%20Engineer%20%7C%20AI%20Builder&descSize=16&descAlignY=58&descColor=a0aec0" width="100%"/>
-</a>
+<h1 align="center">Hi 👋, I'm Rizwan Ramzan</h1>
 
 <br/>
 
