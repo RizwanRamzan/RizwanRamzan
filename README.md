@@ -1,139 +1,239 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
+<div align="center">
 
-<!--
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
- -->
-
-<!--
-<a href="https://komarev.com/ghpvc/?username=alsiam">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://rizwanramzan.com/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rizwan%20Ramzan&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=SaaS%20Architect%20%7C%20Healthcare%20%26%20FinTech%20Engineer%20%7C%20AI%20Builder&descSize=16&descAlignY=58&descColor=a0aec0" width="100%"/>
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
- -->
- 
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mukhtarhussain.netlify.app/">Mukhtar Hussain</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-      <!--
-    <a href="https://www.google.com/search?q=Mukhtar+Hussain">「 Google Me 」</a>
-    <br>
-       -->
-    「 I am a mern stack web application developer from <b>Pakistan</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<p align="center">
- <a href="https://mukhtarhussain.netlify.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="mukhtar" />
- </a>
- <a href="https://linkedin.com/in/mukhtarhussai9" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mukhtar"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/mukhtar.hussain1/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="mukhtar" />
- </a> 
- <a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="mukhtar"  />
-  </a> 
-</p>
-<br />
-
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/code.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: mukhtar.hussai9.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/mukhtarhussain1/mukhtarhussain1/issues)
-
-</p>
-
-<br/>
-<br/>
 <br/>
 
-## Use To Code
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+Enterprise-Grade+SaaS+Platforms;Healthcare+%26+FinTech+Systems+at+Scale;AI-Powered+Products+%26+Analytics;10%2B+Day+GitHub+Streak+%F0%9F%94%A5+and+Climbing" alt="Typing SVG" />
+</a>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+<br/><br/>
+
+<a href="https://rizwanramzan.com/">
+  <img src="https://img.shields.io/badge/Portfolio-rizwanramzan.com-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/rizwan-ramzan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rizwanramzan826@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/rizwanramzan?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rizwanramzan&color=7C3AED&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/rizwanramzan?style=flat-square&color=7C3AED&label=Followers)
+
+</div>
+
+---
+
+## 🧠 Who I Am
+
+```ts
+const rizwan = {
+  role:       "Full-Stack Engineer → SaaS Architect",
+  location:   "Pakistan 🇵🇰 — Available Globally 🌍",
+  focus:      ["Healthcare Systems", "FinTech Infrastructure", "AI-Powered Products"],
+  approach:   "Business-first engineering. I don't just ship code — I ship outcomes.",
+  currentlyBuilding: "Scalable multi-tenant SaaS & AI-integrated platforms",
+  openTo:     ["Freelance", "Contract", "Full-time Remote"],
+};
+```
+
+> 💡 *I specialize in turning complex requirements into clean, scalable systems — whether that's a HIPAA-compliant telemedicine platform, a FinTech backend, or an AI analytics dashboard.*
+
+---
+
+## 🏗️ What I Actually Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 Healthcare Systems
+HIPAA-ready telemedicine platforms with video consultations, patient management, appointment scheduling & secure data pipelines.
+
+**Tech:** React · Node.js · MongoDB · WebRTC
+
+</td>
+<td width="50%">
+
+### 💳 FinTech Infrastructure
+Secure financial tracking systems with real-time reporting, multi-currency support, and audit-ready architecture.
+
+**Tech:** Next.js · PostgreSQL · REST APIs · Stripe
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚀 Multi-Tenant SaaS
+CRM dashboards, workflow automation, and B2B platforms — built for enterprise scale from day one.
+
+**Tech:** React · Next.js · Node.js · Docker · AWS
+
+</td>
+<td width="50%">
+
+### 🤖 AI-Powered Products
+Analytics dashboards, predictive systems, and decision engines integrating LLMs into real product workflows.
+
+**Tech:** OpenAI API · LangChain · Python · MongoDB
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Production Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3>🏥 OhanaDoc / American Clinic Online</h3>
+
+**Telemedicine Platform**
+
+Full telemedicine system with video consultations, appointment booking, patient records, and secure HIPAA-compliant data handling for US-based clinics.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+<td width="50%">
+<h3>💳 RQM Books</h3>
+
+**FinTech Management System**
+
+Financial tracking, reporting, and business management system designed for operational scale — built for real business workflows, not demos.
+
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📊 WerkMatch</h3>
+
+**SaaS Workflow Automation**
+
+Automation-based platform for talent/service matching, workflow optimization, and business growth — serving real end-users in production.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</td>
+<td width="50%">
+<h3>🤖 AI Analytics Dashboard</h3>
+
+**AI-Powered Business Intelligence**
+
+Real-time AI dashboard for predictive analytics, business intelligence, and automated decision-making — production deployed and actively used.
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4A90E2?style=for-the-badge&logo=circleci&logoColor=white)
+
+### AI & Emerging
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rizwanramzan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanramzan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&langs_count=8" width="49%" />
 
 <br/>
 
-## Top Open Source -
-[![foodstuff-store](https://github-readme-stats.vercel.app/api/pin/?username=mukhtarhussain1&repo=foodstuffs_store&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![weather-checker](https://github-readme-stats.vercel.app/api/pin/?username=mukhtarhussain1&repo=weather-checker&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Todo-list](https://github-readme-stats.vercel.app/api/pin/?username=mukhtarhussain1&repo=Todo-list&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mukhtarhussain1/web-projects)
-[![news-article](https://github-readme-stats.vercel.app/api/pin/?username=mukhtarhussain1&repo=news-article&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
-
-<p align="left">
-  <a href="https://github.com/mukhtarhussain1?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rizwanramzan&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=FF6B35&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 
 <br/>
-<hr/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizwanramzan&custom_title=Rizwan's%20Contribution%20Graph&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FF6B35&area=true&area_color=7C3AED&hide_border=true&title_color=ffffff" width="98%" />
+
 <br/>
 
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mukhtarhussain1&theme=radical" alt="GitHub Streak" /></a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=rizwanramzan&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="98%"/>
 
-<p align="center">
-  <a href="https://github.com/mukhtarhussain1">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukhtarhussain1&theme=radical" alt="Mukhtar's GitHub Contribution"/>
-  </a>
-</p>
+</div>
 
-<a> 
-    <a href="https://github.com/mukhtarhussain1"><img alt="Mukhtar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mukhtarhussain1&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mukhtarhussain1"><img alt="Mukhtar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mukhtarhussain1&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+---
 
+## 💼 Why Companies Work With Me
 
-![Mukhtar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukhtarhussain1&custom_title=Mukhtar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+| Signal | Detail |
+|--------|---------|
+| 🏥 **Healthcare Expertise** | Delivered HIPAA-aware telemedicine systems for US-based clinics |
+| 💳 **FinTech Experience** | Built secure financial systems with real audit trails and compliance in mind |
+| 🚀 **SaaS Architecture** | Multi-tenant, role-based, scalable — not just feature-complete |
+| 🤖 **AI Integration** | Not hype — AI tools embedded into real product workflows |
+| ⚡ **End-to-End Delivery** | From requirements to production. No handoff needed. |
+| 🌍 **Global Clients** | Worked with US, UK, and EU-based companies across time zones |
+
+---
+
+## 🤝 Let's Build Something Real
+
+<div align="center">
+
+**Currently available for freelance, contract & full-time remote roles.**
+
+[![Email](https://img.shields.io/badge/📧%20Email-rizwanramzan826@gmail.com-7C3AED?style=for-the-badge)](mailto:rizwanramzan826@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-rizwan--ramzan-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rizwan-ramzan/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-rizwanramzan.com-FF6B35?style=for-the-badge)](https://rizwanramzan.com/)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Engineering+products+that+scale+globally&fontSize=14&fontColor=a0aec0&fontAlignY=65" width="100%"/>
+
+</div>
